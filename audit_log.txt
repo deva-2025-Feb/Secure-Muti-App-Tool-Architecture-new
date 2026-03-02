@@ -1,0 +1,90 @@
+2026-02-28 21:08:10.875093 | User: finance | Role: Finance | Query: show profit trend | Tool: profit_trend | Status: Allowed
+2026-02-28 21:11:33.048433 | User: finance | Role: Finance | Query: How is company performance? | Tool: sales_summary | Status: Denied
+2026-02-28 21:19:06.763841 | User: finance | Role: Finance | Query: show regioon revenue | Tool: sales_summary | Status: Denied
+2026-02-28 21:19:13.520123 | User: finance | Role: Finance | Query: show region revenue | Tool: region_analysis | Status: Denied
+2026-02-28 21:19:37.787604 | User: finance | Role: Finance | Query: show model comparison | Tool: model_comparison | Status: Denied
+2026-02-28 21:19:53.568158 | User: finance | Role: Finance | Query: show units sold | Tool: units_sold_trend | Status: Denied
+2026-02-28 21:21:23.509595 | User: finance | Role: Finance | Query: expense | Tool: expense_breakdown | Status: Allowed
+2026-02-28 21:21:34.066273 | User: finance | Role: Finance | Query: expense in pie chart | Tool: expense_breakdown | Status: Allowed
+2026-02-28 21:22:34.236911 | User: finance | Role: Finance | Query: profit trend | Tool: profit_trend | Status: Allowed
+2026-02-28 21:59:28.627649 | User: admin | Role: Admin | Query: revenue by region | Tool: region_analysis | Status: Allowed
+2026-02-28 22:02:14.283356 | User: admin | Role: Admin | Query: revenue by region | Tool: region_analysis | Status: Allowed
+2026-02-28 22:03:12.982296 | User: admin | Role: Admin | Query: profit trend | Tool: profit_trend | Status: Allowed
+2026-02-28 22:03:23.135438 | User: admin | Role: Admin | Query: show profit trend | Tool: profit_trend | Status: Allowed
+2026-02-28 22:03:42.976775 | User: admin | Role: Admin | Query: show sales summary | Tool: sales_summary | Status: Allowed
+2026-02-28 22:04:12.052587 | User: admin | Role: Admin | Query: revenue by regionn | Tool: region_analysis | Status: Allowed
+2026-02-28 22:04:28.474827 | User: admin | Role: Admin | Query: revenue by modal | Tool: sales_summary | Status: Allowed
+2026-02-28 22:04:58.168257 | User: admin | Role: Admin | Query: expensive trend | Tool: sales_summary | Status: Allowed
+2026-02-28 22:05:10.077523 | User: admin | Role: Admin | Query: expense trend | Tool: expense_breakdown | Status: Allowed
+2026-02-28 22:05:38.850451 | User: admin | Role: Admin | Query: revenue | Tool: sales_summary | Status: Allowed
+2026-02-28 22:06:16.819393 | User: admin | Role: Admin | Query: revenue by region | Tool: region_analysis | Status: Allowed
+2026-02-28 22:06:29.207626 | User: admin | Role: Admin | Query: revenue by modal | Tool: sales_summary | Status: Allowed
+2026-02-28 22:06:46.325601 | User: admin | Role: Admin | Query: units sold trend | Tool: units_sold_trend | Status: Allowed
+2026-02-28 22:07:11.487203 | User: admin | Role: Admin | Query: expense trend | Tool: expense_breakdown | Status: Allowed
+2026-02-28 22:07:52.489889 | User: admin | Role: Admin | Query: units sold | Tool: units_sold_trend | Status: Allowed
+2026-02-28 22:11:49.581741 | User: sales | Role: Sales | Query: units sold | Tool: units_sold_trend | Status: Denied
+2026-02-28 22:34:08.460832 | User: finance | Role: Finance | Query: units of sold | Tool: units_sold_trend | Status: Denied
+2026-02-28 22:34:38.159258 | User: finance | Role: Finance | Query: what is computer | Tool: sales_summary | Status: Denied
+2026-02-28 22:54:37.591297 | User: finance | Role: Finance | Query: profit trend | Tool: profit_trend | Status: Allowed
+2026-02-28 23:00:26.711276 | User: finance | Role: Finance | Query: profit trend | Tool: profit_trend | Status: Allowed
+2026-02-28 23:00:38.335412 | User: finance | Role: Finance | Query: what is computer | Tool: None | Status: Denied
+2026-02-28 23:09:59.881064 | User: finance | Role: Finance | Query: profit trend | Tool: profit_trend | Status: Allowed
+2026-02-28 23:12:22.011321 | User: finance | Role: Finance | Query: revenue by region | Tool: revenue_trend | Status: Denied
+2026-02-28 23:12:36.504378 | User: finance | Role: Finance | Query: profit trend | Tool: profit_trend | Status: Allowed
+2026-02-28 23:16:59.969361 | User: finance | Role: Finance | Query: profit trend | Tool: profit_trend | Status: Allowed
+2026-02-28 23:21:51.981716 | User: finance | Role: Finance | Query: expense trend | Tool: expense_trend | Status: Denied
+2026-02-28 23:22:59.165058 | User: finance | Role: Finance | Query: expense breakdown | Tool: expense_trend | Status: Denied
+2026-02-28 23:25:00.080655 | User: finance | Role: Finance | Query: profit trend | Tool: profit_trend | Status: Allowed
+2026-02-28 23:25:12.867600 | User: finance | Role: Finance | Query: expense trend | Tool: expense_breakdown | Status: Allowed
+2026-02-28 23:25:54.682556 | User: admin | Role: Admin | Query: units sold | Tool: units_sold_trend | Status: Allowed
+2026-02-28 23:37:39.593533 | User: admin | Role: Admin | Query: revenue by region | Tool: revenue_trend | Status: Allowed
+2026-02-28 23:38:10.182380 | User: admin | Role: Admin | Query: revenue by modal | Tool: revenue_trend | Status: Allowed
+2026-02-28 23:38:32.401350 | User: admin | Role: Admin | Query: revenue by region | Tool: revenue_trend | Status: Allowed
+2026-02-28 23:38:46.772277 | User: admin | Role: Admin | Query: revenue by modal | Tool: revenue_trend | Status: Allowed
+2026-02-28 23:40:06.441488 | User: admin | Role: Admin | Query: profit trend | Tool: profit_trend | Status: Allowed
+2026-02-28 23:40:14.619821 | User: admin | Role: Admin | Query: expense trend | Tool: expense_breakdown | Status: Allowed
+2026-02-28 23:53:34.187870 | User: admin | Role: Admin | Query: revenue by region | Tool: region_analysis | Status: Allowed
+2026-02-28 23:53:47.641263 | User: admin | Role: Admin | Query: revenue by model | Tool: model_comparison | Status: Allowed
+2026-02-28 23:54:12.971956 | User: admin | Role: Admin | Query: profit trend | Tool: profit_trend | Status: Allowed
+2026-02-28 23:54:20.445323 | User: admin | Role: Admin | Query: expense trend | Tool: expense_breakdown | Status: Allowed
+2026-02-28 23:54:30.838995 | User: admin | Role: Admin | Query: sales summary | Tool: sales_summary | Status: Allowed
+2026-02-28 23:54:46.295033 | User: admin | Role: Admin | Query: units sold | Tool: units_sold_trend | Status: Allowed
+2026-02-28 23:55:40.777635 | User: admin | Role: Admin | Query: expense trend | Tool: expense_breakdown | Status: Allowed
+2026-02-28 23:55:55.914619 | User: admin | Role: Admin | Query: profit trend | Tool: profit_trend | Status: Allowed
+2026-02-28 23:57:12.403871 | User: sales | Role: Sales | Query: revenue by model | Tool: model_comparison | Status: Allowed
+2026-02-28 23:57:20.401161 | User: sales | Role: Sales | Query: revenue by region | Tool: region_analysis | Status: Allowed
+2026-02-28 23:58:12.577887 | User: sales | Role: Sales | Query: revenue by model | Tool: model_comparison | Status: Allowed
+2026-03-01 09:17:30.598710 | User: admin | Role: Admin | Query: model revenue | Tool: model_comparison | Status: Allowed
+2026-03-01 09:18:06.815305 | User: admin | Role: Admin | Query: region wise  revenue | Tool: region_analysis | Status: Allowed
+2026-03-01 09:19:37.533847 | User: admin | Role: Admin | Query: expense trend | Tool: expense_breakdown | Status: Allowed
+2026-03-01 14:07:59.207391 | User: ops | Role: Operations | Query: profit trend | Tool: profit_trend | Status: Denied
+2026-03-01 14:08:13.322063 | User: ops | Role: Operations | Query: units sold | Tool: units_sold_trend | Status: Allowed
+2026-03-01 15:17:38.643396 | User: admin | Role: Admin | Query: profit trend | Tool: profit_trend | Status: Allowed
+2026-03-01 15:36:08.974051 | User: admin | Role: Admin | Query: revenue by model | Tool: model_comparison | Status: Allowed
+2026-03-01 15:37:14.011552 | User: finance | Role: Finance | Query: profit trend | Tool: profit_trend | Status: Allowed
+2026-03-01 15:37:32.423843 | User: finance | Role: Finance | Query: revenue by region | Tool: region_analysis | Status: Denied
+2026-03-01 15:37:50.710251 | User: finance | Role: Finance | Query: what is computer | Tool: None | Status: Invalid Query
+2026-03-01 15:55:25.049654 | User: admin | Role: Admin | Query: revenue by region  | Tool: region_analysis | Status: Allowed
+2026-03-01 15:55:44.327357 | User: admin | Role: Admin | Query: hjhjjh | Tool: None | Status: Invalid Query
+2026-03-01 15:56:18.144602 | User: finance | Role: Finance | Query: expense trend | Tool: expense_breakdown | Status: Allowed
+2026-03-01 15:56:29.848017 | User: finance | Role: Finance | Query: units sold overall | Tool: units_sold_trend | Status: Denied
+2026-03-01 15:56:40.018861 | User: finance | Role: Finance | Query: computer | Tool: None | Status: Invalid Query
+2026-03-01 16:00:13.771820 | User: finance | Role: Finance | Query: profit trend | Tool: profit_trend | Status: Allowed
+2026-03-01 16:00:44.702116 | User: finance | Role: Finance | Query: units sold | Tool: units_sold_trend | Status: Denied
+2026-03-01 16:00:51.718460 | User: finance | Role: Finance | Query: cokk | Tool: None | Status: Invalid Query
+2026-03-01 16:01:17.166588 | User: admin | Role: Admin | Query: units sold | Tool: units_sold_trend | Status: Allowed
+2026-03-01 16:02:59.005449 | User: finance | Role: Finance | Query: profit trend | Tool: profit_trend | Status: Allowed
+2026-03-01 16:03:09.862372 | User: finance | Role: Finance | Query: units sold | Tool: units_sold_trend | Status: Denied
+2026-03-01 16:29:53.153372 | User: finance | Role: Finance | Query: profit trend | Tool: profit_trend | Status: Allowed
+2026-03-01 16:39:25.116589 | User: finance | Role: Finance | Query: profit trend | Tool: profit_trend | Status: Allowed
+2026-03-01 16:39:41.262312 | User: finance | Role: Finance | Query: units sold | Tool: units_sold_trend | Status: Denied
+2026-03-02 09:25:07.276385 | User: admin | Role: Admin | Query: expense trend | Tool: expense_breakdown | Status: Allowed
+2026-03-02 09:26:34.367771 | User: finance | Role: Finance | Query: expense | Tool: expense_breakdown | Status: Allowed
+2026-03-02 09:30:04.795736 | User: sales | Role: Sales | Query: units sold | Tool: units_sold_trend | Status: Denied
+2026-03-02 09:30:56.006716 | User: admin | Role: Admin | Query: units sold  | Tool: units_sold_trend | Status: Allowed
+2026-03-02 09:40:24.247678 | User: admin | Role: Admin | Query: sales summary | Tool: sales_summary | Status: Allowed
+2026-03-02 09:42:18.369063 | User: admin | Role: Admin | Query: revenue region trend | Tool: region_analysis | Status: Allowed
+2026-03-02 09:42:19.497788 | User: admin | Role: Admin | Query: revenue region trend | Tool: region_analysis | Status: Allowed
+2026-03-02 10:06:46.024838 | User: admin | Role: Admin | Query: expense trend | Tool: expense_breakdown | Status: Allowed
+2026-03-02 10:07:13.736025 | User: admin | Role: Admin | Query: revenue region | Tool: region_analysis | Status: Allowed
+2026-03-02 10:11:13.260323 | User: admin | Role: Admin | Query: expense trend | Tool: expense_breakdown | Status: Allowed

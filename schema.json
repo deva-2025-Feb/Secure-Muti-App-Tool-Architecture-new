@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "description": "iPhone Sales and Finance Dataset",
+  "columns": [
+    "Date",
+    "Model",
+    "Region",
+    "Units_Sold",
+    "Price_Per_Unit",
+    "Revenue",
+    "Expenses",
+    "Profit"
+  ]
+}
